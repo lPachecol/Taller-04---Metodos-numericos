@@ -1,6 +1,6 @@
 # Taller 04 Métodos numéricos
 
-## Pablo Pacheco
+## Ian Oñate y Pablo Pacheco
 
 1. [Ejercicio 1](Ejercicio1.ipynb)
    - [Gráfica 1](spline_B1_ejercicio1.gif)
